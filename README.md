@@ -6,7 +6,7 @@ git config --global merge.tool p4merge
 git config --global mergetool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
 
 Set your editor:
-# git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe" -multiInst -notabbar -nosession -noPlugin"
+# git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 [core]	
 editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession –noPlugin
 
